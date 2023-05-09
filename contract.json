@@ -1,0 +1,8 @@
+{
+    "name": "erc",
+    "description": "Standard ARC20 token.",
+    "image": "https://raw.githubusercontent.com/UniArc12345/arc/main/arc.png,
+    "external_link": "www.uniarc.live",
+    "seller_fee_basis_points": 1000, 
+    "fee_recipient": "0x1E39824756EB0aAfAE3Fc46C579E51bEff9943b7"
+  }
